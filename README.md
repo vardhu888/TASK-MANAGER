@@ -3,16 +3,6 @@ A Task Manager is a simple application used to organize and manage tasks. It all
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Task Manager - README</title>
-</head>
-<body>
-
-<h1>Task Manager (C++ Project)</h1>
-
-<p>
-This is a simple console-based Task Manager application built using C++. 
-The program allows users to manage their daily tasks easily through a menu-driven interface.
-</p>
 
 <h2>Features</h2>
 <ul>
